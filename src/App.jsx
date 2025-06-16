@@ -8,7 +8,8 @@ import Login from './components/Login'
 import Body from './components/Body'
 import Feeds from './components/Feeds'
 import Notfound from './components/Notfound'
-import store from './utils/store'
+import store from './utils/store'   
+
 import { Provider } from 'react-redux'
 
 function App() {
